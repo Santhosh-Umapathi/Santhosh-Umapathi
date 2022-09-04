@@ -31,7 +31,7 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 
 ![Santhosh Umapathi's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santhosh-umapathi&theme=react&hide_border=true)
 
-![Santhosh Umapathi's Trophy](https://github-profile-trophy.vercel.app/?username=santhosh-umapathi&no-frame=true&theme=darkhub)]
+![Santhosh Umapathi's Trophy](https://github-profile-trophy.vercel.app/?username=santhosh-umapathi&no-frame=true&theme=darkhub)
 
 
 ###### - Santhosh Umapathi

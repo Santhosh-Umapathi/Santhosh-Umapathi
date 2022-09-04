@@ -27,11 +27,11 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 - Figma | Sketch | Miro
 - Photoshop
 
-![Santhosh Umapathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhosh-umapathi&show_icons=true&theme=react)
+![Santhosh Umapathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh-umapathi&show_icons=true&theme=react)
 
 ![Santhosh Umapathi's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santhosh-umapathi&theme=react&hide_border=true)
 
-![Santhosh Umapathi's trophy](https://github-profile-trophy.vercel.app/?username=santhosh-umapathi)]
+![Santhosh Umapathi's Trophy](https://github-profile-trophy.vercel.app/?username=santhosh-umapathi&no-frame=true&theme=darkhub)]
 
 
 ###### - Santhosh Umapathi

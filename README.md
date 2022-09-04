@@ -2,11 +2,12 @@
 ![Profile View](https://komarev.com/ghpvc/?username=santhosh-umapathi&color=62D9FA)
 
 # Santhosh Umapathi
+<img align="right" alt="GIF" src="https://github.com/Santhosh-Umapathi/Santhosh-Umapathi/blob/main/code.gif?raw=true" width="400" height="275" />
+
 Thanks for visiting my profile !
 
 I am a _Full-Stack Developer_ with 8+ years of experience in the extensive development of hybrid and native **Mobile applications** and **Web applications** with a strong knowledge of various programming languages. Specialized in providing mobile apps | Enterprise-class web apps and software solutions for large systems.
 
-![N|Solid](https://github.com/Santhosh-Umapathi/Santhosh-Umapathi/blob/main/code.gif?raw=true)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -21,9 +22,11 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 
   
 ##### Front-End
-  <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+  <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/react.svg"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/ts.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/js.svg"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/html.svg"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/css.svg"> </a>
   <br/>
   <br/>
   
@@ -40,6 +43,7 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 
 ##### Back-End
   <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+  <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/docker.svg"></a>
   <br/>
   <br/>
   
@@ -50,6 +54,8 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 
 ##### UI/UX
   <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/sketch.svg"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/photoshop.svg"></a>
   
 - Figma | Sketch | Miro
 - Photoshop

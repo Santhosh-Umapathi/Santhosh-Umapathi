@@ -54,6 +54,7 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 
   <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/docker.svg"></a>
   <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/kubernetes-seeklogo.com.svg"></a>
+    <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/89cab517453d609c5fa946257fc667e4a467da09/amazon-web-services-aws-seeklogo.com.svg"></a>
   <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/google-cloud-seeklogo.com.svg"></a>
 
   <br/>
@@ -67,6 +68,7 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 ##### UI/UX
   <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/sketch.svg"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/89cab517453d609c5fa946257fc667e4a467da09/miro-seeklogo.com.svg"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/photoshop.svg"></a>
   
 - Figma | Sketch | Miro

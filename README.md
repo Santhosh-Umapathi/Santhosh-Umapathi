@@ -6,6 +6,7 @@ Thanks for visiting my profile !
 I am a _Full-Stack Developer_ with 8+ years of experience in the extensive development of hybrid and native **Mobile applications** and **Web applications** with a strong knowledge of various programming languages. Specialized in providing mobile apps | Enterprise-class web apps and software solutions for large systems.
 
 ## Skills
+![Santhosh Umapathi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-umapathi&layout=compact&theme=react)
 
 ##### Front-End
 - React | Next Js

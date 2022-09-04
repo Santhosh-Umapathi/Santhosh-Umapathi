@@ -23,9 +23,11 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
   
 ##### Front-End
   <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/react.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/next-js-seeklogo.com.svg"> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/ts.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/js.svg"> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/html.svg"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/tailwind-css-seeklogo.com.svg"> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/css.svg"> </a>
   <br/>
   <br/>
@@ -43,7 +45,17 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 
 ##### Back-End
   <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+  <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/express-seeklogo.com.svg"></a>
+  <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/fastify-seeklogo.com.svg"></a>
+  <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/mongodb-seeklogo.com.svg"></a>
+  <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/redis-seeklogo.com.svg"></a>
+  <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/supabase-seeklogo.com.svg"></a>
+  <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/firebase-seeklogo.com.svg"></a>
+
   <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/docker.svg"></a>
+  <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/kubernetes-seeklogo.com.svg"></a>
+  <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/google-cloud-seeklogo.com.svg"></a>
+
   <br/>
   <br/>
   

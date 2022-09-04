@@ -54,31 +54,18 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 ##### Back-End
 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-
 <a href="https://expressjs.com/" target="_blank"><img align="left" alt="Express.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/express-seeklogo.com.svg"></a>
-
 <a href="https://www.fastify.io/" target="_blank"><img align="left" alt="Fastify.js" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/fastify-seeklogo.com.svg"></a>
-
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="Mongo Db" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/mongodb-seeklogo.com.svg"></a>
-
 <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/redis-seeklogo.com.svg"></a>
-
 <a href="https://supabase.com/" target="_blank"><img align="left" alt="Supabase" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/supabase-seeklogo.com.svg"></a>
-
 <a href="https://firebase.google.com/" target="_blank"><img align="left" alt="Firebase" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/firebase-seeklogo.com.svg"></a>
-
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/docker.svg"></a>
-
 <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/kubernetes-seeklogo.com.svg"></a>
-
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/89cab517453d609c5fa946257fc667e4a467da09/amazon-web-services-aws-seeklogo.com.svg"></a>
-
 <a href="https://cloud.google.com/" target="_blank"><img align="left" alt="GCP" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/73e3dff70493faa8e256504fa8e095e3c78b2a34/google-cloud-seeklogo.com.svg"></a>
-
   <br/>
   <br/>
-  
-  
 - Node Js | Express Js | Fastify Js
 - Mongo DB | Redis | Supabase | Firebase
 - Docker | Kubernetes | AWS | GCP
@@ -99,7 +86,7 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 - Figma | Sketch | Miro
 - Photoshop
 
-##### Profile Stats
+### Profile Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh-umapathi&show_icons=true&theme=react)
 
@@ -109,6 +96,6 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=santhosh-umapathi&no-frame=true&theme=darkhub)
 
-###### - Santhosh Umapathi
+##### - Santhosh Umapathi
 
 ![N|Solid](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)

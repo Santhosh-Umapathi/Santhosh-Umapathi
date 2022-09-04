@@ -85,16 +85,21 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 
 ##### UI/UX
 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a>
 
-<a href="https://www.sketch.com/" target="_blank"><img align="left" alt="Sketch" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/sketch.svg"></a>
+  <a href="https://www.sketch.com/" target="_blank"><img align="left" alt="Sketch" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/sketch.svg"></a>
 
-<a href="https://miro.com/" target="_blank"><img align="left" alt="Miro" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/89cab517453d609c5fa946257fc667e4a467da09/miro-seeklogo.com.svg"></a>
+  <a href="https://miro.com/" target="_blank"><img align="left" alt="Miro" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/89cab517453d609c5fa946257fc667e4a467da09/miro-seeklogo.com.svg"></a>
 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img align="left" alt="Photoshop" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/photoshop.svg"></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img align="left" alt="Photoshop" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/photoshop.svg"></a>
+  
+  <br/>
+  <br/>
 
 - Figma | Sketch | Miro
 - Photoshop
+
+##### Profile Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh-umapathi&show_icons=true&theme=react)
 
